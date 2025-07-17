@@ -1,16 +1,23 @@
-# coffeego
+# Starbucks UI Clone ☕️
 
-A new Flutter project.
+A clean and responsive UI clone of the Starbucks mobile app built using Flutter.  
+This project focuses on recreating the modern layout, colors, and components typically found in coffee ordering apps.
 
-## Getting Started
+## 🎯 Features
+- Beautiful, Starbucks-inspired UI
+- Custom reusable widgets
+- Scrollable product sections
+- Responsive design for multiple screen sizes
+  
+## 🛠 Tech Stack
+- Flutter
+- Dart
 
-This project is a starting point for a Flutter application.
+## 📂 Project Status
+✅ UI Completed  
+❌ Backend/API Not Integrated
 
-A few resources to get you started if this is your first Flutter project:
+## 🎓 Purpose
+This app is part of UI cloning practice using Flutter to improve design skills and mobile UI building experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
